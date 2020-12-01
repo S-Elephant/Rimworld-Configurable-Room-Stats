@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Settings -->
+  <SECRS_SettingsCategory>Configurable Room Stats</SECRS_SettingsCategory>
+  <SECRS_AllSettingsAppliedLive>all settings are applied live!</SECRS_AllSettingsAppliedLive>
+  <SECRS_Reset>reset</SECRS_Reset>
+  <SECRS_ApplyPreset>apply preset</SECRS_ApplyPreset>
+  <SECRS_PresetVanilla>vanilla</SECRS_PresetVanilla>
+  <SECRS_PresetRealistic>realistic rooms</SECRS_PresetRealistic>
+  <SECRS_PresetMin>min</SECRS_PresetMin>
+  <SECRS_PresetMax>max</SECRS_PresetMax>
+  <SECRS_PresetCustom1>custom 1</SECRS_PresetCustom1>
+  <SECRS_PresetCustom2>custom 2</SECRS_PresetCustom2>
+  <SECRS_ResetAll>reset all</SECRS_ResetAll>
+  <SECRS_OpenModSettingsFolder>open mod settings folder</SECRS_OpenModSettingsFolder>
+  <SECRS_SavePreset>save preset</SECRS_SavePreset>
+  
+  <!-- Space -->
+  <SECRS_RoomSpaceHeader>room Space</SECRS_RoomSpaceHeader>
+  <SECRS_Space_RatherTight>rather tight</SECRS_Space_RatherTight>
+  <SECRS_Space_AverageSized>average-sized</SECRS_Space_AverageSized>
+  <SECRS_Space_SomewhatSpacious>somewhat spacious</SECRS_Space_SomewhatSpacious>
+  <SECRS_Space_QuiteSpacious>quite spacious</SECRS_Space_QuiteSpacious>
+  <SECRS_Space_VerySpacious>very spacious</SECRS_Space_VerySpacious>
+  <SECRS_Space_ExtremelySpacious>extremely spacious</SECRS_Space_ExtremelySpacious>
+  
+  <!-- Beauty -->
+  <SECRS_RoomBeautyHeader>room Beauty</SECRS_RoomBeautyHeader>
+  <SECRS_Beauty_Ugly>ugly</SECRS_Beauty_Ugly>
+  <SECRS_Beauty_Neutral>neutral</SECRS_Beauty_Neutral>
+  <SECRS_Beauty_Pretty>pretty</SECRS_Beauty_Pretty>
+  <SECRS_Beauty_Beautiful>beautiful</SECRS_Beauty_Beautiful>
+  <SECRS_Beauty_VeryBeautiful>very beautiful</SECRS_Beauty_VeryBeautiful>
+  <SECRS_Beauty_ExtremelyBeautiful>extremely beautiful</SECRS_Beauty_ExtremelyBeautiful>
+  <SECRS_Beauty_UnbelievablyBeautiful>unebelievable beautiful</SECRS_Beauty_UnbelievablyBeautiful>
+  
+  <!-- Wealth -->
+  <SECRS_RoomWealthHeader>room Wealth</SECRS_RoomWealthHeader>
+  <SECRS_Wealth_SomewhatPoor>somewhat poor</SECRS_Wealth_SomewhatPoor>
+  <SECRS_Wealth_Mediocre>mediocre</SECRS_Wealth_Mediocre>
+  <SECRS_Wealth_SomewhatRich>somewhat rich</SECRS_Wealth_SomewhatRich>
+  <SECRS_Wealth_Rich>rich</SECRS_Wealth_Rich>
+  <SECRS_Wealth_Luxurious>luxurious</SECRS_Wealth_Luxurious>
+  <SECRS_Wealth_VeryLuxurious>very luxurious</SECRS_Wealth_VeryLuxurious>
+  <SECRS_Wealth_ExtremelyLuxurious>extremely luxurious</SECRS_Wealth_ExtremelyLuxurious>
+  <SECRS_Wealth_UnbelievablyLuxurious>unbelievably luxurious</SECRS_Wealth_UnbelievablyLuxurious>
+  
+  <!-- Impressiveness -->
+  <SECRS_RoomImpHeader>room Impressiveness</SECRS_RoomImpHeader>
+  <SECRS_Imp_Dull>dull</SECRS_Imp_Dull>
+  <SECRS_Imp_Mediocre>mediocre</SECRS_Imp_Mediocre>
+  <SECRS_Imp_Decent>decent</SECRS_Imp_Decent>
+  <SECRS_Imp_SlightlyImpressive>slightly impressive</SECRS_Imp_SlightlyImpressive>
+  <SECRS_Imp_SomewhatImpressive>somewhat impressive</SECRS_Imp_SomewhatImpressive>
+  <SECRS_Imp_VeryImpressive>very impressive</SECRS_Imp_VeryImpressive>
+  <SECRS_Imp_ExtremelyImpressive>extremely impressive</SECRS_Imp_ExtremelyImpressive>
+  <SECRS_Imp_UnbelievablyImpressive>unbelievably impressive</SECRS_Imp_UnbelievablyImpressive>
+  <SECRS_Imp_WondrouslyImpressive>wondrously impressive</SECRS_Imp_WondrouslyImpressive>
+  
+  <!-- Cleanliness -->
+  <SECRS_RoomCleanHeader>room Cleanliness</SECRS_RoomCleanHeader>
+  <SECRS_Clean_Dirty>dirty</SECRS_Clean_Dirty>
+  <SECRS_Clean_SlightlyDirty>slightly dirty</SECRS_Clean_SlightlyDirty>
+  <SECRS_Clean_Clean>clean</SECRS_Clean_Clean>
+  <SECRS_Clean_Sterile>sterile</SECRS_Clean_Sterile>
+  
+</LanguageData>
+
+
+
+
+
+
+
+
+
+
+

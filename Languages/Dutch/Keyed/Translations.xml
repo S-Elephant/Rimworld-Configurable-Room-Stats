@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Settings -->
+  <SECRS_SettingsCategory>Instelbare Kamer Stats</SECRS_SettingsCategory>
+  <SECRS_AllSettingsAppliedLive>Alle instellingen worden live toegepast!</SECRS_AllSettingsAppliedLive>
+  <SECRS_Reset>herstel</SECRS_Reset>
+  <SECRS_ApplyPreset>pas preset toe</SECRS_ApplyPreset>
+  <SECRS_PresetVanilla>vanilla</SECRS_PresetVanilla>
+  <SECRS_PresetRealistic>realistische kamers</SECRS_PresetRealistic>
+  <SECRS_PresetMin>min</SECRS_PresetMin>
+  <SECRS_PresetMax>max</SECRS_PresetMax>
+  <SECRS_PresetCustom1>custom 1</SECRS_PresetCustom1>
+  <SECRS_PresetCustom2>custom 2</SECRS_PresetCustom2>
+  <SECRS_ResetAll>herstel alles</SECRS_ResetAll>
+  <SECRS_OpenModSettingsFolder>open mod instellingen folder</SECRS_OpenModSettingsFolder>
+  <SECRS_SavePreset>bewaar preset</SECRS_SavePreset>
+  
+  <!-- Space -->
+  <SECRS_RoomSpaceHeader>kamer Ruimte</SECRS_RoomSpaceHeader>
+  <SECRS_Space_RatherTight>nogal krapjes</SECRS_Space_RatherTight>
+  <SECRS_Space_AverageSized>gemiddeld</SECRS_Space_AverageSized>
+  <SECRS_Space_SomewhatSpacious>een beetje ruim</SECRS_Space_SomewhatSpacious>
+  <SECRS_Space_QuiteSpacious>erg ruim</SECRS_Space_QuiteSpacious>
+  <SECRS_Space_VerySpacious>heel erg ruim</SECRS_Space_VerySpacious>
+  <SECRS_Space_ExtremelySpacious>extreem ruim</SECRS_Space_ExtremelySpacious>
+  
+  <!-- Beauty -->
+  <SECRS_RoomBeautyHeader>kamer Schoonheid</SECRS_RoomBeautyHeader>
+  <SECRS_Beauty_Ugly>lelijk</SECRS_Beauty_Ugly>
+  <SECRS_Beauty_Neutral>neutraal</SECRS_Beauty_Neutral>
+  <SECRS_Beauty_Pretty>mooi</SECRS_Beauty_Pretty>
+  <SECRS_Beauty_Beautiful>erg mooi</SECRS_Beauty_Beautiful>
+  <SECRS_Beauty_VeryBeautiful>heel erg mooi</SECRS_Beauty_VeryBeautiful>
+  <SECRS_Beauty_ExtremelyBeautiful>extreem mooi</SECRS_Beauty_ExtremelyBeautiful>
+  <SECRS_Beauty_UnbelievablyBeautiful>ongelovelijk mooi</SECRS_Beauty_UnbelievablyBeautiful>
+  
+  <!-- Wealth -->
+  <SECRS_RoomWealthHeader>kamer Rijkdom</SECRS_RoomWealthHeader>
+  <SECRS_Wealth_SomewhatPoor>arm</SECRS_Wealth_SomewhatPoor>
+  <SECRS_Wealth_Mediocre>gemiddeld</SECRS_Wealth_Mediocre>
+  <SECRS_Wealth_SomewhatRich>een beetje rijk</SECRS_Wealth_SomewhatRich>
+  <SECRS_Wealth_Rich>rijk</SECRS_Wealth_Rich>
+  <SECRS_Wealth_Luxurious>luxerieus</SECRS_Wealth_Luxurious>
+  <SECRS_Wealth_VeryLuxurious>heel erg luxerieus</SECRS_Wealth_VeryLuxurious>
+  <SECRS_Wealth_ExtremelyLuxurious>extreem luxerieus</SECRS_Wealth_ExtremelyLuxurious>
+  <SECRS_Wealth_UnbelievablyLuxurious>ongelovelijk luxerieus</SECRS_Wealth_UnbelievablyLuxurious>
+  
+  <!-- Impressiveness -->
+  <SECRS_RoomImpHeader>kamer Indrukwekkendheid</SECRS_RoomImpHeader>
+  <SECRS_Imp_Dull>saai</SECRS_Imp_Dull>
+  <SECRS_Imp_Mediocre>gemiddeld</SECRS_Imp_Mediocre>
+  <SECRS_Imp_Decent>decent</SECRS_Imp_Decent>
+  <SECRS_Imp_SlightlyImpressive>enigzins indrukwekkend</SECRS_Imp_SlightlyImpressive>
+  <SECRS_Imp_SomewhatImpressive>redelijk indrukwekkend</SECRS_Imp_SomewhatImpressive>
+  <SECRS_Imp_VeryImpressive>erg indrukwekkend</SECRS_Imp_VeryImpressive>
+  <SECRS_Imp_ExtremelyImpressive>extreem indrukwekkend</SECRS_Imp_ExtremelyImpressive>
+  <SECRS_Imp_UnbelievablyImpressive>ongelovelijk indrukwekkend</SECRS_Imp_UnbelievablyImpressive>
+  <SECRS_Imp_WondrouslyImpressive>goddelijk indrukwekkend</SECRS_Imp_WondrouslyImpressive>
+  
+  <!-- Cleanliness -->
+  <SECRS_RoomCleanHeader>kamer Hygiëne</SECRS_RoomCleanHeader>
+  <SECRS_Clean_Dirty>vies</SECRS_Clean_Dirty>
+  <SECRS_Clean_SlightlyDirty>een beetje vies</SECRS_Clean_SlightlyDirty>
+  <SECRS_Clean_Clean>schoon</SECRS_Clean_Clean>
+  <SECRS_Clean_Sterile>steriel</SECRS_Clean_Sterile>
+  
+</LanguageData>
+
+
+
+
+
+
+
+
+
+
+

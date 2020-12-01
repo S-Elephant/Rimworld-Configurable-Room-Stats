@@ -1,0 +1,19 @@
+<ModMetaData>
+	<name>Configurable Room Stats</name>
+	<author>Squirting Elephant</author>
+	<supportedVersions>
+		<li>1.1</li>
+		<li>1.2</li>
+	</supportedVersions>
+	<packageId>SquirtingElephant.CofigurableRoomStats</packageId>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>crlsniper.realisticrooms</li>
+		<li>neceros.roomsizetolerance</li>
+		<li>crlsniper.realisticroomslite</li>
+	</loadAfter>
+	<description>A tiny mod that allows you to change how room stats are calculated for space, wealth, beauty, impressiveness and cleanliness. You can configure all settings yourself live ingame.
+	
+Has zero dot zero performance impact during gameplay and is translation-ready.</description>
+</ModMetaData>

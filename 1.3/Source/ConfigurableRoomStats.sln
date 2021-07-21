@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurableRoomStats", "ConfigurableRoomStats.csproj", "{72300DF5-AEC9-424F-B29C-817BF3214452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72300DF5-AEC9-424F-B29C-817BF3214452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72300DF5-AEC9-424F-B29C-817BF3214452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72300DF5-AEC9-424F-B29C-817BF3214452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72300DF5-AEC9-424F-B29C-817BF3214452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01B90FAC-0795-40C9-9888-0AB96B11167B}
+	EndGlobalSection
+EndGlobal
